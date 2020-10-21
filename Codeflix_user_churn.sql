@@ -1,4 +1,3 @@
-
 WITH months AS
 (SELECT 
 '2017-01-01' AS first_day,
